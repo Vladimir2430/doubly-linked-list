@@ -20,7 +20,7 @@ class LinkedList {
     }
     this.length++;
     return this;
-
+    }
     head() {
     return this.a.data; 
     }
